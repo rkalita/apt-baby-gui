@@ -128,11 +128,16 @@ footer p {
   }
 
   .frame {
-    height: 600px !important;
+    height: 700px !important;
+    margin: 10px 0 10px 0;
   }
 
   iframe {
     height: 600px !important;
+  }
+
+  .tokenomics h2 {
+    font-size: 56px !important;
   }
 }
 
